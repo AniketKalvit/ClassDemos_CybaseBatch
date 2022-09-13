@@ -10,6 +10,7 @@ namespace ClassDemos
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Sample code");
         }
     }
 }
